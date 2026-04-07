@@ -1,0 +1,7 @@
+/* Minimal global CSS. Tailwind utilities are loaded via the Play CDN in index.html. */
+
+html,body,#root {
+	height: 100%;
+}
+
+/* leave App.css for project-specific styles */
