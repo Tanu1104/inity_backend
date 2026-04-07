@@ -8,7 +8,7 @@ A modern, scalable admin dashboard built using React, designed for efficient man
 
 This admin panel provides a centralized interface for managing an e-commerce-like system. It focuses on clean UI, real-time-like interactions, and modular architecture to allow easy scaling and backend connectivity.
 
-> ⚠️ **Note:** All data displayed in the admin panel is currently **demo/mock data for development and presentation purposes**.
+All data displayed in the admin panel is currently **demo/mock data for development and presentation purposes**.
 
 ---
 
